@@ -1,0 +1,14 @@
+config.py
+*.pyc
+*.json
+*.log
+/venv/
+test.py
+.idea/dan63047pythonbot.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+randomcolor.jpg
+.idea/.gitignore
+ossworkspace.code-workspace
